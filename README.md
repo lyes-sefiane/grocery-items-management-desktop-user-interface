@@ -18,11 +18,12 @@ A JavaFX Desktop User Interface
 
 ## Documentation
 
-- TODO
+- [Grocery Items Management Desktop User Interface GitHub Wiki Documentation](https://github.com/lyes-sefiane/grocery-items-management-desktop-user-interface/wiki)
 
 ## Grocery Items Management Desktop User Interface
-
-- TODO
+<p>
+<img src="https://raw.githubusercontent.com/wiki/lyes-sefiane/grocery-items-management-desktop-user-interface/images/welcome.PNG">
+</p>
 
 
 ## Requirements
