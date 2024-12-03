@@ -1,0 +1,55 @@
+[
+  {
+    "namespace": "io.github.lyes_sefiane.grocery_items_management_desktop_user_interface.domain.entity",
+    "type": "record",
+    "name": "GroceryItem",
+    "fields": [
+      {
+        "name": "id",
+        "type": "string"
+      },
+      {
+        "name": "name",
+        "type": "string"
+      },
+      {
+        "name": "quantity",
+        "type": "int"
+      },
+      {
+        "name": "category",
+        "type": "string"
+      }
+    ]
+  },
+  {
+    "namespace": "io.github.lyes_sefiane.grocery_items_management_desktop_user_interface.domain.entity",
+    "type": "record",
+    "name": "Link",
+    "fields": [
+      {
+        "name": "rel",
+        "type": "string"
+      },
+      {
+        "name": "href",
+        "type": "string"
+      }
+    ]
+  },
+  {
+    "namespace": "io.github.lyes_sefiane.grocery_items_management_desktop_user_interface.domain",
+    "type": "record",
+    "name": "GroceryItemResource",
+    "fields": [
+      {
+        "name": "groceryItem",
+        "type": "io.github.lyes_sefiane.grocery_items_management_desktop_user_interface.domain.entity.GroceryItem"
+      },
+      {
+        "name": "link",
+        "type": "io.github.lyes_sefiane.grocery_items_management_desktop_user_interface.domain.entity.Link"
+      }
+    ]
+  }
+]

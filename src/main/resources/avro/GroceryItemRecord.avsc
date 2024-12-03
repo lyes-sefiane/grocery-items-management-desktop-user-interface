@@ -1,0 +1,20 @@
+{
+  "namespace": "io.github.lyes_sefiane.grocery_items_management_desktop_user_interface.domain.dto",
+  "type": "record",
+  "name": "GroceryItemRecord",
+  "fields": [
+    {
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "name": "quantity",
+      "type": "int"
+    },
+    {
+      "name": "category",
+      "type": "string"
+    }
+  ]
+}
+
