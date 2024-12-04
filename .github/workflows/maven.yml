@@ -69,7 +69,6 @@ jobs:
 
     - name: Publish to GitHub Packages Apache Maven
       #if: github.event.action == 'published'
-      run: mvn deploy -s $GITHUB_WORKSPACE/.github/workflows/maven-settings.xml
+      run: mvn deploy -s $GITHUB_WORKSPACE/settings.xml
       env:
-        USERNAME: ${{ secrets.USERNAME }}
-        GITHUB_TOKEN: ${{ secrets.GROCERY_ITEMS_MANAGEMENT_USER_INTERFACE_ACCESS_TOKEN }}
+        GITHUB_TOKEN: ${{ github.token }}
