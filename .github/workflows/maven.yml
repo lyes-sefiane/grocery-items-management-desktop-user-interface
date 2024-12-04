@@ -67,6 +67,3 @@ jobs:
         path: target/grocery-items-management-desktop-user-interface.jar
         compression-level: 0
         overwrite: true
-
-    - name: Build with Maven
-      run: mvn clean install
