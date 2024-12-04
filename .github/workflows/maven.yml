@@ -8,7 +8,10 @@ name: Continuous Integration with Maven
 
 on:
   push:
-    branches: [ "master", "develop", "features" , "feature/*", "bugfix/*", "hotfix/*" ]
+    branches: [ "main", "develop", "features" , "feature/*", "bugfix/*", "hotfix/*" ]
+  release:
+    types:
+      - published
 
 jobs:
   sonar-cloud-analysis:
