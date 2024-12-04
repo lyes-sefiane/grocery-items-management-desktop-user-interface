@@ -14,8 +14,22 @@ A JavaFX Desktop User Interface
 
 ![License](https://img.shields.io/static/v1?label=License&message=CC-BY-NC-ND-4.0&color=green)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
-
-
+[![CodeQL](https://github.com/lyes-sefiane/grocery-items-management-desktop-user-interface/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/lyes-sefiane/grocery-items-management-desktop-user-interface/actions/workflows/github-code-scanning/codeql)
+[![Continuous Integration with Maven](https://github.com/lyes-sefiane/grocery-items-management-desktop-user-interface/actions/workflows/maven.yml/badge.svg)](https://github.com/lyes-sefiane/grocery-items-management-desktop-user-interface/actions/workflows/maven.yml)
+[![Automatic Dependency Submission](https://github.com/lyes-sefiane/grocery-items-management-desktop-user-interface/actions/workflows/dependency-graph/auto-submission/badge.svg)](https://github.com/lyes-sefiane/grocery-items-management-desktop-user-interface/actions/workflows/dependency-graph/auto-submission)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=lyes-sefiane_grocery-items-management-desktop-user-interface&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=lyes-sefiane_grocery-items-management-desktop-user-interface)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=lyes-sefiane_grocery-items-management-desktop-user-interface&metric=bugs)](https://sonarcloud.io/summary/new_code?id=lyes-sefiane_grocery-items-management-desktop-user-interface)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=lyes-sefiane_grocery-items-management-desktop-user-interface&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=lyes-sefiane_grocery-items-management-desktop-user-interface)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=lyes-sefiane_grocery-items-management-desktop-user-interface&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=lyes-sefiane_grocery-items-management-desktop-user-interface)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=lyes-sefiane_grocery-items-management-desktop-user-interface&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=lyes-sefiane_grocery-items-management-desktop-user-interface)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=lyes-sefiane_grocery-items-management-desktop-user-interface&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=lyes-sefiane_grocery-items-management-desktop-user-interface)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=lyes-sefiane_grocery-items-management-desktop-user-interface&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=lyes-sefiane_grocery-items-management-desktop-user-interface)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=lyes-sefiane_grocery-items-management-desktop-user-interface&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=lyes-sefiane_grocery-items-management-desktop-user-interface)
+![GitHub top language](https://img.shields.io/github/languages/top/lyes-sefiane/grocery-items-management-desktop-user-interface)
+![GitHub Release](https://img.shields.io/github/v/release/lyes-sefiane/grocery-items-management-desktop-user-interface)
+![GitHub Release Date](https://img.shields.io/github/release-date/lyes-sefiane/grocery-items-management-desktop-user-interface)
+![GitHub contributors](https://img.shields.io/github/contributors/lyes-sefiane/grocery-items-management-desktop-user-interface)
+![GitHub Repo stars](https://img.shields.io/github/stars/lyes-sefiane/grocery-items-management-desktop-user-interface?style=social)
 ## Documentation
 
 - [Grocery Items Management Desktop User Interface GitHub Wiki Documentation](https://github.com/lyes-sefiane/grocery-items-management-desktop-user-interface/wiki)
