@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.5.6</version>
+		<version>4.0.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>io.github.lyes-sefiane</groupId>
@@ -53,14 +53,13 @@
 		<javafx.version>22.0.2</javafx.version>
 		<jfoenix.vesion>9.0.1</jfoenix.vesion>
 		<avro.version>1.12.0</avro.version>
+		<commons-lang3.version>3.20.0</commons-lang3.version>
 	</properties>
 	<dependencies>
-        <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-lang3 -->
-        <!-- Temporary Fix Until Integration of This Version in org.springframework.boot -->
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-lang3</artifactId>
-            <version>3.18.0</version>
+            <version>${commons-lang3.version}</version>
         </dependency>
 		<dependency>
 			<groupId>org.apache.avro</groupId>
